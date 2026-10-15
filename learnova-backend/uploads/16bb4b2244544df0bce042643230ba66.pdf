@@ -1,0 +1,38 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj << /Length 560 >>
+stream
+BT /F1 11 Tf 50 750 Td
+(Exception Handling in Java - Chapter 5) Tj 0 -18 Td
+(Exception handling is a mechanism to handle runtime errors gracefully.) Tj 0 -18 Td
+(A try block encloses code that might throw an exception.) Tj 0 -18 Td
+(A catch block catches and handles the exception.) Tj 0 -18 Td
+(The finally block always runs regardless of whether an exception occurred.) Tj 0 -18 Td
+(Checked exceptions must be declared or handled at compile time.) Tj 0 -18 Td
+(Unchecked exceptions are subclasses of RuntimeException.) Tj 0 -18 Td
+(NullPointerException occurs when a null object reference is used.) Tj 0 -18 Td
+(ArrayIndexOutOfBoundsException is thrown for invalid array index.) Tj 0 -18 Td
+(Custom exceptions extend the Exception class.) Tj 0 -18 Td
+(The throw keyword raises an exception explicitly.) Tj 0 -18 Td
+(The throws keyword declares exceptions in a method signature.) Tj
+ET
+endstream
+endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000115 00000 n
+0000000274 00000 n
+0000000900 00000 n
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+968
+%%EOF
