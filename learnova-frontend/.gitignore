@@ -22,4 +22,31 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# Secrets
 .env
+.env.*
+!.env.example
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+dist-ssr/
+
+# Local databases and uploaded data
+*.db
+chroma_db/
+uploads/
+
+# Generated ML files
+*.pkl
+
+# Logs and editor files
+*.log
+.vscode/
